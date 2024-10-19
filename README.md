@@ -1,7 +1,3 @@
-Here's a draft for your README file:
-
----
-
 # Dining Concierge Chatbot - Cloud Computing and Big Data (Fall 2024) Assignment
 
 This repository contains the code and documentation for implementing a serverless, microservice-driven web application that serves as a Dining Concierge chatbot. The chatbot interacts with users through conversation, collecting dining preferences and providing restaurant suggestions.
